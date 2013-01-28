@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#808080</color>
+    <color name="black">#000000</color>
+
+    <string name="app_name">Android Drawer Comparator</string>
+    <string name="background_description">Background image</string>
+
+    <string name="sn1_description">This is \'SlidingMenu\' from jfeinstein10</string>
+    <string name="sn1_button">SlidingMenu</string>
+
+    <string name="sn2_description">This is \'android-fly-in-app-navigation\' from Gregadeaux</string>
+    <string name="sn2_button">android-fly-in-app-navigation</string>
+
+    <string name="sn3_description">This is \'LibSlideMenu\' from bk138</string>
+    <string name="sn3_button">LibSlideMenu</string>
+
+    <string name="sn4_description">This is \'RibbonMenu\' from darvds</string>
+    <string name="sn4_button">RibbonMenu</string>
+
+    <string name="sn5_description">This is \'android-undergarment\' from eddieringle</string>
+    <string name="sn5_button">android-undergarment</string>
+
+    <string name="sn6_description">This is \'android-menudrawer\' from SimonVT</string>
+    <string name="sn6_button">android-menudrawer</string>
+
+    <string name="menubutton">Click here to activate the menu!</string>
+</resources>
