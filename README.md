@@ -2,6 +2,7 @@ android-drawer-comparator
 =========================
 
 This is an Android application which allows you to visually compare side navigation libraries.
+
 Here is the list of libraries currently present in this app:
 * [jfeinstein10/SlidingMenu][1]
 * [Gregadeaux/android-fly-in-app-navigation][2]
